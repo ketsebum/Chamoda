@@ -6,9 +6,9 @@
         <param name="onload" value="true" />
     </feature>
     <allow-intent href="market:*" />
-    <name>Bikram Yoga</name>
+    <name>Chamoda Candy Cafe</name>
     <description>
-        An attempt at Bikram Yoga App
+        An attempt at Chamoda Candy Cafe App
     </description>
     <author email="snunleys@gmail.com">
         Sean Nunley
@@ -47,11 +47,11 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
-    <icon src="assets/imageedit_1_2120489440.gif" />
-    <icon gap:platform="android" gap:qualifier="ldpi" src="www/res/icon/android/icon-36.png" />
-    <icon gap:platform="android" gap:qualifier="mdpi" src="www/res/icon/android/icon-48.png" />
-    <icon gap:platform="android" gap:qualifier="hdpi" src="www/res/icon/android/icon-72.png" />
-    <icon gap:platform="android" gap:qualifier="xhdpi" src="www/res/icon/android/icon-96.png" />
+    <icon src="assets/rsz_chamoda.jpg" />
+    <icon gap:platform="android" gap:qualifier="ldpi" src="www/res/icon/android/36chamoda.jpg" />
+    <icon gap:platform="android" gap:qualifier="mdpi" src="www/res/icon/android/48chamoda.jpg" />
+    <icon gap:platform="android" gap:qualifier="hdpi" src="www/res/icon/android/72chamoda.jpg" />
+    <icon gap:platform="android" gap:qualifier="xhdpi" src="www/res/icon/android/96chamoda.jpg" />
     <icon gap:platform="blackberry" src="www/res/icon/blackberry/icon-80.png" />
     <icon gap:platform="blackberry" gap:state="hover" src="www/res/icon/blackberry/icon-80.png" />
     <icon gap:platform="ios" height="57" src="www/res/icon/ios/icon-57.png" width="57" />
